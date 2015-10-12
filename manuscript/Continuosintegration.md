@@ -2,7 +2,7 @@
 Uno de los conflictos que se presentan al no realizar integraciones continuas a los proyectos, es quebrar el sistema al integrar cambios que aún no son probados, la falta de integración continua genera inestabilidad en el código además de un ciclo de retroalimentación muy largo, por mencionar algunos.
 Realizar integraciones continuas consiste en hacer integraciones “automáticas” de un proyecto frecuentemente para detectar fallos en el sistema lo antes posible, esto se refiere a la compilación y ejecución de pruebas de todo un proyecto.
 
-![Ciclo de vida de Continuous Integration](images/continuousintegration.jpg)
+![Ciclo de vida de Continuous Integration](images/Continuousintegration.jpg)
 
 A continuación se mencionan algunas de las ventajas y desventajas de realizar Continuos Integration (Tabla 1).
 
