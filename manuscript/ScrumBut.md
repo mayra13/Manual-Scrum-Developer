@@ -1,4 +1,4 @@
-# ScrumBut
+# 1 ScrumBut
 
 La siguiente imagen muestra el ciclo de vida del marco de trabajo conocido como SCRUM.
 Se dará un repaso para recordar el ciclo de vida.
