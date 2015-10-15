@@ -19,19 +19,20 @@ A continuación se mencionan algunas de las ventajas y desventajas de realizar C
 Tabla 1: Ventajas y desventajas de continuous integration
 
 Ciclo de vida:
-1.- Checks in source code.
-2.- Checks out source from VCS.
-3.- Compile.
-4.- Static code analysis standards & bugs.
-5.- Run unit test.
-6.- Code coverage analysis.
-7.- Static code analysis security (time consuming).
-8.- build deployable units.
-9.- Deploy APP.
-10.- Setup perf analysis.
-11.- Set up test fixtures.
-12.- Functional test / automation.
-13.- Publish reports.
+
+1. Checks in source code.
+2. Checks out source from VCS.
+3. Compile.
+4. Static code analysis standards & bugs.
+5. Run unit test.
+6. Code coverage analysis.
+7. Static code analysis security (time consuming).
+8. build deployable units.
+9. Deploy APP.
+10. Setup perf analysis.
+11. Set up test fixtures.
+12. Functional test / automation.
+13. Publish reports.
 
 A continuación se nombran algunas de las herramientas que se pueden utilizar:
 * GitHub. Repositorio para control de versiones
