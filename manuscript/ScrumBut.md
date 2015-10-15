@@ -43,7 +43,7 @@ Segun los indicadores de una encuasta realizada en el 2012, el 86% de los proyec
 El métdo de cascada es un malentendido desde el principio.
 Fue supuestamente "inventado" por el diario "Gestion de desarrollo de sistemas de Software grandes" por el Dr. Winston W. Royce en 1970, pero la implementacion que se ha descrito anteriormente es riesgoso e invita al fracaso.
 
-	__Discrepancia entre el modelo y el problema__
+__Discrepancia entre el modelo y el problema__
 
 ¿Es un bebé una versión más pequeña de un adulto?, la respuesta es no, ya que un bebé no es un adulto pequeño, un bebé es un ser independiente. Por lo tanto creer que un bebé es un adulto en forma pequeña o de menor tamaño es algo erróneo.
 Las empresas como la NASA, IBM del departamento de la defensa crearon sus propios modelos de calidad como CMM para sus empresas, las cuales, están constituidas por un gran equipo de trabajo, manejan al rededor de 800 mil trabajadores, por lo cual se caraloga como una empresa grande, al igual que IBM.
