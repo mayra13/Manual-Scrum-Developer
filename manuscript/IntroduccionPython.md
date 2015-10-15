@@ -6,20 +6,26 @@ La selección del lenguaje para este curso es Python. Es un lenguaje de programa
 **Instalación
 
 * Linux en la versión 2.7
+
     `sudo apt-get install python2.7`
+
 * MAC OS
 	Python versión 2.7.9 - 2014-12-10
 	[Descargar] (Mac OS X 64-bit/32-bit installer)
 * Windows
 	[Descargar] (https://www.python.org/downloads/)
 
-**¿Cómo verificar la instalación?
+__¿Cómo verificar la instalación?__
 Entrar a ms-dos y ejecutar:
+
     `python`
-**¿Cómo saber qué versión de python está instalada?
+
+__¿Cómo saber qué versión de python está instalada?__
 Ejecutar:
+
     `python --version`
-Ejercicio: Entrar a python en la máquina virtual para realizar los ejercicios que se encuentran en el [manual] (http://learnxinyminutes.com/docs/python/)
+
+__Ejercicio:__ Entrar a python en la máquina virtual para realizar los ejercicios que se encuentran en el [manual] (http://learnxinyminutes.com/docs/python/)
 
 
 
