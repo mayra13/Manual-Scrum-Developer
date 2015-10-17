@@ -7,16 +7,20 @@ Si se está desarrollando de forma colaborativa, todos los desarrolladores deben
 Por citar algunos ejemplos se mencionan los siguientes:
 
 __Identación.__ Usa 4 espacios por cada nivel de indentación.
-__¿Tabuladores o espacios?.__ Nunca mezcles tabuladores y espacios
-__Tamaño máximo de línea.__ Limita todas las líneas a un máximo de 79 caracteres
+
+__¿Tabuladores o espacios?.__ Nunca mezcles tabuladores y espacios.
+
+__Tamaño máximo de línea.__ Limita todas las líneas a un máximo de 79 caracteres.
+
 __No usar espacios alrededor del signo.__ Igual cuando se encuentre en un listado de argumentos de una función:
+
 * Incorrecto:
 	def suma(a=0, b=0):
 * Correcto:
 	def suma(a = 0, b = 0):
 No se deben de realizar comentarios obvios.
 
-Puedes encontrar mas información sobre el [estandar de código] (http://mundogeek.net/traducciones/guia-estilo-python.htm)
+Puedes encontrar mas información sobre el estandar de código [aquí] (http://mundogeek.net/traducciones/guia-estilo-python.htm)
 
 ## 10.1 Para Python encontramos PEP8 (Python Enhancement Proposals).
 
@@ -31,7 +35,8 @@ Actualización
     `pip install --upgrade`
 
 ¿Cómo se usa?
-Muestra las violaciones al estándar de código 
+
+Al ejecutar los siguientes comandos se mostraran las violaciones que estan presentes en el estandar de codigo definido por Python.
 
     `flake8 <Nombre del archivo>.py`
                ó
