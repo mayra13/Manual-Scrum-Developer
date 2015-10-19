@@ -18,9 +18,40 @@ Datos del libro
 
 Uno de los conceptos que se presentan en este libro es Code Smell, este concepto se refiere a distintos tipos de errores de diseño que debemos evitar al momento de programar. En la siguiente tabla se muestra un catálogo de algunos de los Code Smells más sobresalientes. 
 
-| Smell | Refactoring |
-| Comments. When you feel like writing a comment, first try "to refactor so that the comment becomes superfluous" | Rename Method 
-Extract Method 
-Introduce Assertion |
-| | |
+| Smell                                                          |                          Refactoring                             |
+| :---------------------------                                   | ------------------------------------------------:                |
+| __Comments.__ When you feel like writing a comment,            |                                                                  |
+| first try "to refactor so that the comment becomes superfluous"| Rename Method, Extract Method, Introduce Assertion               |
+|                                                                |                                                                  |
+| __Duplicated Code.__ Duplicated code is the most pervasive and | Chain Constructors, Extract Composite, Extract Method, Extract Class |
+| pungent smell in software.It tends to be either explicit or subtle. | Form Template Method, Introduce Null Object, Introduce Polymorphic |
+| Explicit duplication exists in identical code, while subtle    |  Creation with Factory, Method, Pull Up Method, Pull Up Field | 
+| duplication exists in structures or processing steps that are  | Replace One/Many Distinctions with Composite, Substitute Algorithm,  |
+| outwardly different, yet essentially the same                  | Unify Interfaces with Adapter     |
+|                                                                |                                                                    |
+| __Large Class.__ Fowler and Beck note that the presence of too | Extract Class, Extract Subclass, Extract Interface,               |
+| many instance variables usually indicates that a class is trying | Replace Data Value with Object, Replace Implicit Language |
+| to do too much. In general, large classes typically contain    |  with Interpreter, Replace State-Altering Conditionals with State |
+| too many responsibilities                                      |                                                                  |
+ 
+Tabla: Ejemplos de Code Smells.
+
+
+Se pueden encontrar todos los Code Smells del libro [aquí] (http://www.industriallogic.com/wp-content/uploads/2005/09/smellstorefactorings.pdf)
+
+__Ejercicio:__ Realizar refactoring a las pruebas de TDD del archivo “python_lab.py”
+
+__Nota:__ El siguiente comando nos permite conocer cuántas líneas de código tiene un archivo:
+    `wc -l nombre_del_archivo`
+
+
+
+
+
+
+
+
+
+
+
 
