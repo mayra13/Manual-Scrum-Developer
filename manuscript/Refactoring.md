@@ -42,6 +42,7 @@ Se pueden encontrar todos los Code Smells del libro [aquí] (http://www.industri
 __Ejercicio:__ Realizar refactoring a las pruebas de TDD del archivo “python_lab.py”
 
 __Nota:__ El siguiente comando nos permite conocer cuántas líneas de código tiene un archivo:
+
     `wc -l nombre_del_archivo`
 
 
