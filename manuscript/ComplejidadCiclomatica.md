@@ -12,7 +12,7 @@ Con base a esta métrica podemos decidir qué funciones y métodos son los más 
 | 21 - 50 | Complejo, Programa de alto riesgo |
 | 51 o más | programa muy complejo, Muy alto riesgo |
 
-Tabla () Evaluación del riesgo según la complejidad ciclomática encontrada en un sistema.
+Tabla: Evaluación del riesgo según la complejidad ciclomática encontrada en un sistema.
 
 
 __¿Cómo se calcula?__
@@ -25,7 +25,9 @@ __Ejercicio:__
 
 
 * Aplicar la siguiente instrucción al servidor Jenkins:
+
 	--max-complexity=2 .
 
 * Este comando permite que el sistema que estamos integrando al servidor tenga una complejidad ciclomática de “2”, la cantidad de complejidad puede cambiar dependiendo de lo que se quiera. Ejemplo:
+
 	--max-complexity=1 .
