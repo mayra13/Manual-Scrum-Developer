@@ -1,0 +1,7 @@
+# 25 Seguridad: SQL Injection, OWASP
+
+Los datos y la información que se generan diariamente en internet es demasiada, por lo cual las aplicaciones Web deben ser sitios seguros, y lo menos vulnerables ante ataques generados por usuarios malintencionados que hacen mal uso de sus conocimientos informáticos y que pueden dañar las aplicaciones. Diseñar aplicaciones Web sin tomar en cuenta la seguridad puede generar graves problemas en algún futuro, sin embargo desarrollar una aplicación segura no es una tarea fácil, pero sí representa un mejor trabajo.
+
+__SQL Injection.__ Es uno de los métodos más utilizados que aprovecha la vulnerabilidad de las aplicaciones para realizar operaciones sobre las bases de datos, el cual debe ser tomando en cuenta por los desarrolladores de aplicaciones Web.
+
+__OWASP (Open Web Application Security Project).__ Es un proyecto de código abierto que proporciona recursos como artículos, libros, capacitaciones, Software de testeo, etcétera, gratuitos para determinar y combatir las causas que hacen que el software sea inseguro, y con ello promover Software de calidad y seguro.
