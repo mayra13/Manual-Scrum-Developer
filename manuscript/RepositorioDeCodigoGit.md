@@ -31,7 +31,7 @@ __Comandos más utilizados__
 
 
 
-Existen muchos repositorios de código, uno de los más utilizados es Git. En la siguiente liga se puede encontrar un pequeño manual que ayudará a comprender el funcionamiento de Git [aquí]: (https://try.github.io/levels/1/challenges/1)
+Existen muchos repositorios de código, uno de los más utilizados es Git. En la siguiente liga se puede encontrar un pequeño manual que ayudará a comprender el funcionamiento de Git [aquí] (https://try.github.io/levels/1/challenges/1)
 
 ## 8.1 instalacion de Git
 
