@@ -8,17 +8,29 @@ Realizar retrospectivas de la misma manera durante un largo tiempo, puede afecta
 Imagen: Avram Joel Spolsky Ingeniero en Software y escritor.
 
 __The Joel Test__
+
 1. Do you use source control?
+
 2. Can you make a build in one step?
+
 3. Do you make daily builds?
+
 4. Do you have a bug database?
+
 5. Do you fix bugs before writing new code?
+
 6. Do you have an up-to-date schedule?
+
 7. Do you have a spec for requirements?
+
 8. Do programmers have quiet working conditions?
+
 9. Do you use the best tools money can buy?
+
 10. Do you have testers?
+
 11. Do new candidates write code during their interview?
+
 12. Do you do hallway usability testing?
 
 Otra manera de realizar las retrospectivas es aplicando el Check-list que sugiere SCRUM. Es una lista de preguntas específicas, las cuales se van marcado si el equipo de trabajo está cumpliendo con esa tarea o actividad, en caso contrario, son las preguntas que se toman en cuenta para realizar la mejora y establecer los compromisos.
