@@ -58,7 +58,7 @@ Modificar el archivo python_lab.py para tratar de violar el estandar de codigo.
 Tratar de hacer commit de sus cambios. Tendrá como resultado un error que no dejará que suba sus cambios ya que está tratando de subir un código que no cumple con su estándar.
 
 
-Para alguna duda sobre pre-commit-hook checar el siguiente enlace [aquí] : (http://flake8.readthedocs.org/en/latest/vcs.html)
+Para alguna duda sobre pre-commit-hook checar el siguiente enlace [aquí] (http://flake8.readthedocs.org/en/latest/vcs.html)
 
 
 
