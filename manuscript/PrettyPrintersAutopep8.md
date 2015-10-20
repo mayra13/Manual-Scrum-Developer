@@ -10,15 +10,14 @@ Instalación
 
 Instalar desde consola
 
-<< >>=
-sudo pip install autopep8
-@
+    `sudo pip install autopep8`
+
 
 Realizar la corrección del código según el estándar de python
-<< >>=
 
-autopep8 --in-place <nombre_del_archivo.py>
-@
+
+    `autopep8 --in-place nombre_del_archivo.py`
+
 
 __Ejemplo:__
 
