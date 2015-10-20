@@ -1,0 +1,6 @@
+# 17 Unit Test
+
+El desarrollo de una aplicación es deficiente si no se cubren pruebas unitarias, existen malas creencias sobre el desarrollo de pruebas unitarias como: “pérdida de tiempo”, “resulta complicado probar el código”, “no son importantes”,  “no ayudan a mejorar el código”, y una clásica frase de los desarrolladores “mi trabajo es desarrollar, no probar código, ese no es mi trabajo!” todos estos son algunos ejemplos de los pretextos que pueden tomar los desarrolladores para no realizar pruebas unitarias y las cuales están completamente equivocadas.
+
+Una prueba unitaria es un método que prueba una unidad de código, lo cual agrega madurez y calidad al desarrollo de Software, desarrollar pruebas unitarias es una de las mejores prácticas que se deben aplicar desde el comienzo de la programación de cada individuo, para que sea adoptado como un buen hábito de desarrollo de Software. Mejoran la calidad de las aplicaciones ya que ayudan a disminuir los errores o bugs, y es menos costoso corregir un error en la fase de desarrollo, ya que tomaría más tiempo encontrar un error cuando el sistema esté en producción.
+El desarrollo de la pruebas unitarias debería ser creado antes de comenzar la codificación de una manera sencilla y entendible para todos.
