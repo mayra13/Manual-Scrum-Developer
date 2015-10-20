@@ -10,7 +10,9 @@ __Nota:__ En caso de que no se encuentre instalado dentro de Vagrant instalar Co
 
 Instalar:
     
-    `sudo pip install coverage`
+<< label="code_chunk" >>=
+    sudo pip install coverage
+@
 
 __Ejercicio:__ Solo el líder de equipo debe agregar el siguiente comando  a la configuración de Jenkins:
 
