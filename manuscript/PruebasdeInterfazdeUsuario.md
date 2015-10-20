@@ -18,6 +18,7 @@ Versión de Selenium que se debe instalar
 Al seleccionarlo mostrará la interfaz siguiente:
 
 ![Interfaz de selenium](images/interfazselenium.png)
+
 Interfaz de Selenium IDE
 
 __NOTA:__ Para mayor información revisar el link [aquí] (http://www.seleniumhq.org/docs/02_selenium_ide.jsp) 

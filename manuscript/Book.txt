@@ -8,3 +8,6 @@ IntroduccionAGogs.md
 ComplejidadCiclomatica.md
 Refactoring.md
 SeguridadSQLInjectionOWASP.md
+PruebasdeInterfazdeUsuario.md
+RetrospectivaDia3.md
+
