@@ -10,5 +10,27 @@ __Instalación.__
 * Descargar el navegador Firefox.
 * Instalar el Plug-in Selenium IDE [aquí] (http://www.seleniumhq.org/download/)
 
+![Descarga de selenium](images/Descargaslenium.png)
+Versión de Selenium que se debe instalar
 
+* Verificar que está instalado si aparece un icono como este en la esquina derecha de tu navegador.
+
+Al seleccionarlo mostrará la interfaz siguiente:
+
+![Interfaz de selenium](images/interfazselenium.png)
+Interfaz de Selenium IDE
+
+__NOTA:__ Para mayor información revisar el link [aquí] (http://www.seleniumhq.org/docs/02_selenium_ide.jsp) 
+
+__Pirámide de pruebas__
+
+Se recomienda que la cantidad de pruebas desarrolladas y aplicadas sean de la siguiente manera, de mayor a menor (mayor cantidad de pruebas unitarias y menor la cantidad de pruebas de interfaz). Como se representa en la siguiente imagen:
+
+![Piramide de pruebas](images/pyramid.png)
+
+
+
+
+
+ 
 
