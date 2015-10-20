@@ -10,4 +10,5 @@ Refactoring.md
 SeguridadSQLInjectionOWASP.md
 PruebasdeInterfazdeUsuario.md
 RetrospectivaDia3.md
+TareaInvestigacionDeHerramientas.md
 

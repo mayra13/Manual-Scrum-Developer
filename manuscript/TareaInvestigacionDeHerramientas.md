@@ -1,0 +1,13 @@
+# 22 Tarea: investigación de las herramientas vistas con los lenguajes: Java, PHP, C++, .Net, R, Ruby.
+
+Por equipos elegir un lenguaje de programación, del cual se expondrá los siguientes puntos:
+
+1. Buscar el estándar de código de mi lenguaje de programación
+2. Buscar la herramienta del check coding standard
+3. Buscar la herramienta pretty print (autopep8)
+4. ¿Mi lenguaje implementa doctest?
+5. Pruebas unitarias de mi lenguaje
+6. Code coverage de mi lenguaje
+7. Buscar el servidor de integración continua de mi lenguaje.
+
+__NOTA:__ Cada equipo contará con 15 minutos para exponer.
