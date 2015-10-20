@@ -1,0 +1,27 @@
+# 21 Ejercicio Generación de tickets: Crear aplicación con Vagrant
+
+El objetivo de este ejercicio es practicar el manejo de un repositorio de código para el control de versiones con el equipo de trabajo.
+
+* El líder de equipo crea un fork del proyecto que el instructor te indicará
+* Agregar a los colaboradores del equipo
+* Cada miembro hace un clon del fork que realizó el líder
+
+Se desarrollará una aplicación básica que consta de:
+* Inicio de sesión con “usuario” y “contraseña”
+* Captura de mensaje que contendrá “título” y “mensaje”.
+* Visualización de todos los mensajes
+* Cierre de sesión
+
+Pasos generales:
+* Generar tickets a partir del clon del repositorio.
+* Cada integrante del equipo debe realizar un ticket y subir sus cambios al repositorio para mantenerlo actualizado
+* Desarrollar la aplicación siguiendo la especificación de los tickets por cada uno de los integrantes
+* Verificar el correcto funcionamiento de la aplicación
+
+
+![Interfaz de aplicación](images/aplicacion.png)
+
+Imagen: Ejemplo de la interfaz de la aplicación que se desarrollará en el ejercicio.
+
+__NOTA:__ Dudas o aclaraciones verificar con el instructor del curso.
+
