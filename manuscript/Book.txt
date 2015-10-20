@@ -12,4 +12,5 @@ PruebasdeInterfazdeUsuario.md
 RetrospectivaDia3.md
 TareaInvestigacionDeHerramientas.md
 EjercicioGeneracionDeTickets.md
+Pre-commitHooks.md
 

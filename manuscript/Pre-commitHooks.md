@@ -1,0 +1,66 @@
+# Pre-commit hooks
+
+¿Cómo evitar que los desarrolladores hagan commit al repositorio si el código no compila? o
+¿Cómo asegurarnos que todos los mensajes de commit sigan cierto formato?
+
+Los pre-commit hooks son pequeños programas que se ejecutan antes de que el desarrollador pueda hacer commit en su repositorio local y por ello son el lugar ideal para correr pequeñas pruebas o cosas de las que nos queramos asegurar para mantener el repositorio de código saludable.
+
+Instalar pre-commit-hook y algunos otros comandos de interés:
+
+    `flake8 --install-hook`
+		ó
+    `pip install git-pre-commit-hook`
+
+__NOTA:__ Podría pedir tener instalado flake8, ejecuta el siguiente comando:
+
+    `sudo apt-get install python-flake8`
+
+Actualización:
+
+    `pip install --upgrade git-pre-commit-hook`
+
+Desinstalación:
+
+    `pip uninstall git-pre-commit-hook`
+
+__Ejercicio:__
+
+A continuación vamos a crear un pre-commit hook que impida que hagamos commit de código que no cumple con el estándar o que no compile.
+
+* Entrar al archivo “.git” que se encuentra de manera oculta dentro de la carpeta en la cual se están realizando los ejercicios.
+
+    `cd .git`
+
+Ahora entrar a la carpeta “hooks que también se encuentra oculta
+
+    `cd hooks`
+
+Dar un 
+
+    `ls`
+
+para que liste los archivos que contiene esta carpeta 
+
+![] (images/1.png)
+
+Abrir el archivo “pre-commit” con el siguiente comando:
+
+    `nano pre-commit`
+
+Modificar la línea:
+
+	Flake8_STRICT, false 
+		a
+	Flake8_STRICT, true
+
+Modificar el archivo python_lab.py para tratar de violar el estandar de codigo.
+
+Tratar de hacer commit de sus cambios. Tendrá como resultado un error que no dejará que suba sus cambios ya que está tratando de subir un código que no cumple con su estándar.
+
+
+Para alguna duda sobre pre-commit-hook checar el siguiente enlace [aquí] : (http://flake8.readthedocs.org/en/latest/vcs.html)
+
+
+
+
+
