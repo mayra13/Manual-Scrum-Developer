@@ -23,11 +23,11 @@ __Ejemplo:__
 
 A continuación se muestra un fragmento de código en el cual aplicamos autopep8 para dar formato con el estándar de código de Python.
 
-[Antes de Autopep8](images/AntesAutopep8.png)
+![Antes de Autopep8](images/AntesAutopep8.png)
 
 
 Después de aplicar autopep8 este es el resultado:
 
-[Despues de Autopep8](images/DespuesAutopep8.png)
+![Despues de Autopep8](images/DespuesAutopep8.png)
 
 
