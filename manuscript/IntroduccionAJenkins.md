@@ -9,7 +9,7 @@ Jenkins permite configurar el tiempo de ejecución de las pruebas de integració
 
 __Nota:__ Es mala idea integrar el comando de autopep8 (que se encarga de la corrección del estándar de código de python) ya que se recomienda realizar estas correcciones antes de enviar cambios al servidor.
 
-[Panel de control de Jenkins](images/paneldecontroljenkins.png)
+![Panel de control de Jenkins](images/paneldecontroljenkins.png)
 
 Imagen: Visualización de la interfaz de Jenkins
 
@@ -17,11 +17,11 @@ __Ejercicio:__ Con ayuda del instructor configurar el servidor Jenkins.
 
 * Desde Gogs, el líder del equipo añade un colaborador llamado “Jenkins”.
 
-[](images/colaboradorjenkins.png)
+![Añadir un colaborador a Gogs](images/colaboradorjenkins.png)
 
 * Desde Jenkins, seleccionar configuraciones y añadir en “Credentials” a Jenkins para que tenga permisos.
 
-[](images/llaves.png)
+![Creación de llaves](images/llaves.png)
 
 * En “Build triggers” indicar cada cuanto tiempo se realizará la actualización
 
@@ -43,22 +43,17 @@ En el campo “Execute shell” podemos agregar comandos que se quieren ejecutar
  
 Este comando compila todo el código a partir de esta carpeta
 
-[](images/compileall.png)
+![Comando compileall](images/compileall.png)
 
 * Dar clic en “Build now” o “Construir ahora” y observa lo que sucede.
 
-[](images/Construirahora.png)
+![Visializacion del estado del proyecto](images/Construirahora.png)
 
 * Añadir un nuevo comando al campo “Execute shell” Este comando nos indica si violamos el estándar de código. Para este caso asignamos un máximo de 160 caracteres por línea de código.
 
 	flake8  --max-line-length=160 .
 
-[](images/flake8.png)
+![Comando que se asegura de evitar violaciones en el código](images/flake8.png)
 
 * Dar clic en “Build now” o “Construir ahora” y observa si tus resultados son satisfactorios.
-
-
-
-
-
 
