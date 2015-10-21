@@ -33,7 +33,7 @@ __Comandos más utilizados__
 
 Existen muchos repositorios de código, uno de los más utilizados es Git. En la siguiente liga se puede encontrar un pequeño manual que ayudará a comprender el funcionamiento de Git [aquí][4] 
 
-[4](https://try.github.io/levels/1/challenges/1)
+[4]:https://try.github.io/levels/1/challenges/1
 
 ## 8.1 instalacion de Git
 
@@ -51,9 +51,9 @@ Deberá tener instalado Homebrew
 
 ### 8.1.3 Instalacion de Git en Windows
 
-Descargar Git [aquí][5]
+Descargar Git [aquí][5] y ejecutarlo
+[5]: https://git-scm.com/download/win
 
-[5](https://git-scm.com/download/win) y ejecutarlo.
 
 
 
