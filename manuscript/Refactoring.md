@@ -3,9 +3,10 @@
 El término refactoring se refiere a una transformación del código que no afecta la funcionalidad externa del sistema para mejorar la facilidad de comprensión o cambiar su estructura y diseño, con la finalidad de facilitar el mantenimiento en el futuro.
 
 Martin Fowler nos presenta en su libro “Refactoring: Improving the Design of Existing Code”, una excelente guía para aprender más sobre este concepto. 
-REFACTORING: IMPROVING THE DESIGN OF EXISTING CODE
-Por: MARTIN FOWLER , ADDISON-WESLEY, 1999
-ISBN: 9780201485677
+
+* REFACTORING: IMPROVING THE DESIGN OF EXISTING CODE
+* Por: MARTIN FOWLER , ADDISON-WESLEY, 1999
+* ISBN: 9780201485677
 
 Datos del libro
 
