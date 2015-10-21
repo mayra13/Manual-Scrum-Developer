@@ -17,21 +17,23 @@ A continuación se muestra un diagrama con el flujo del funcionamiento de Git.
 __Comandos más utilizados__
 
 | Descripción                                      |                     Comandos                       |
-| :-------                                      |                      ------:                          |
+| :-------                                      |                      -------------------------------: |
 | Para bajar por primera vez lo que se encuentra | git clone username@host:/path/to/repository          |
-| en un repositorio remoto.
-| Bajar cambios del repositorio local | git pull |
-| Subir cambios al repositorio Git | git push |
-| Registrar cambios | git add nombre del archivo |
-| Realizar un comentario al subir cambios | git commit -am “comentario” |
-| Crea una copia local del repositorio de código | git clone <http://path/to/repository> |
-| Hacer commit agregando el número de tiquet y la palabra
-| reservada para que tome al tiquet como cerrado | git commit -am "fixes #12 header and footer" |
-| Con “refs” se hace referencia al tiquet #12 | git commit -am "refs #12 header and footer" |
+| en un repositorio remoto.                       |                                                     |
+| Bajar cambios del repositorio local | git pull |                                                     |
+| Subir cambios al repositorio Git | git push |                                                         |
+| Registrar cambios | git add nombre del archivo |                                                       |
+| Realizar un comentario al subir cambios           |                       git commit -am “comentario” |
+| Crea una copia local del repositorio de código  |                git clone <http://path/to/repository> |
+| Hacer commit agregando el número de tiquet y la palabra                                                |
+| reservada para que tome al tiquet como cerrado  |         git commit -am "fixes #12 header and footer" |
+| Con “refs” se hace referencia al tiquet #12    |           git commit -am "refs #12 header and footer" |
 
 
 
-Existen muchos repositorios de código, uno de los más utilizados es Git. En la siguiente liga se puede encontrar un pequeño manual que ayudará a comprender el funcionamiento de Git [aquí] (https://try.github.io/levels/1/challenges/1)
+Existen muchos repositorios de código, uno de los más utilizados es Git. En la siguiente liga se puede encontrar un pequeño manual que ayudará a comprender el funcionamiento de Git [aquí][4] 
+
+[4](https://try.github.io/levels/1/challenges/1)
 
 ## 8.1 instalacion de Git
 
@@ -49,7 +51,9 @@ Deberá tener instalado Homebrew
 
 ### 8.1.3 Instalacion de Git en Windows
 
-Descargar Git [aquí] (https://git-scm.com/download/win) y ejecutarlo.
+Descargar Git [aquí][5]
+
+[5](https://git-scm.com/download/win) y ejecutarlo.
 
 
 
