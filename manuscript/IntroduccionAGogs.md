@@ -4,7 +4,8 @@ La administración de un repositorio de código  no es una tarea sencilla de rea
 Con Gogs podemos controlar Tickets, y administrar los archivos que necesitamos en nuestro proyecto así como contar con el historial de tickets.
 
 ¿Cómo se usa?
-Ejercicio: El siguiente ejercicio se realizará mediante el repositorio Gogs, la interfaz es la que se puede observar a continuación:
+
+__Ejercicio:__ El siguiente ejercicio se realizará mediante el repositorio Gogs, la interfaz es la que se puede observar a continuación:
 
 ![Gogs](images/Gogs.png)
 
