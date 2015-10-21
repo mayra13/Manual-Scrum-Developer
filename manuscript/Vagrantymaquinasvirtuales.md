@@ -37,8 +37,8 @@ Se puede realizar la descarga del paquete en el siguiente link:
 [1]: https://www.virtualbox.org/wiki/Downloads
 [2]: https://www.virtualbox.org/wiki/Linux_Downloads
 Ó realizar la instalación desde consola con el siguiente comando:
-    $sudo apt-get install virtualbox
-![Comando de instalación](images/instalaciondevirtualbox.png)
+    
+    `sudo apt-get install virtualbox`
 
 ![Correcta instalacion de virtualBox](images/Correctainstalacionvirtualbox.png)
 
@@ -49,35 +49,52 @@ Después de haber realizado la instalación de Vagrant y VirtualBox desde la con
 
 ![](images/mkdircrearcarpeta.png)
 
-* Instructor te proporcionará un archivo con el nombre “python.box” colocar fuera de la carpeta que se creó.
+* El instructor te proporcionará un archivo con el nombre “python.box” colocar dentro de la carpeta que se creó.
+
 ![](images/cdscrumdeveloper.png)
+
 * Ejecuta el siguiente comando para que Vagrant reconozca que existe una máquina virtual.
+
 ![](images/reconozcamaquinavirtual.png)
 
 * Ejecutar la máquina virtual con el siguiente comando.
+
 ![](images/correrlamaquinavirtual.png)
 
 * Levantar la máquina virtual (Si tu sistema operativo es Windows, pasar al sub tema “Configuración de Putty”)
+
 ![](images/Levantarmaquinavirtual.png)
 
-* Realizar la conexión a la máquina virtual. SI tu sistema operativo es Windows es momento de configurar Putty ya que este SO no puede ejecutar el comando ssh.
+* Realizar la conexión a la máquina virtual. Si tu sistema operativo es Windows es momento de configurar Putty ya que este SO no puede ejecutar el comando ssh.
+
 ![](images/vagrantssh.png)
 
 ## 3.7 Configuración de Putty. 
+
 Configurar Putty de la siguiente manera:
-1.-Al teclear el comando “$vagrant up” te mostrará la siguiente pantalla:
+
+1.-Al teclear el comando:
+
+    `vagrant up` 
+
+te mostrará la siguiente pantalla:
+
 ![](images/vagrantupputty.png)
 
 2.-Ejecuta el programa Putty y configurarlo con los datos del paso anterior.
+
 ![](images/programaputty.png)
 
-3.-Con los datos ingresados en Putty, te pedirá usuario: vagrant y contraseña: vagrant.
+3.-Con los datos ingresados en Putty, te pedirá usuario: __vagrant__ y contraseña: __vagrant__.
+
 ![](images/usuarioputty.png)
 
 4.-Si la configuración fue exitosa te aparecerá lo siguiente en la consola.
-![](images/confexitosaputty.png)
+
+![](images/conexitosaputty.png)
 
 * Entrar a la raíz de la máquina virtual (los que se guarde en este directorio, se guardará tanto en local como en la máquina virtual).
+
 ![](images/cdvagrant.png)
 
 En la siguiente tabla se mencionan los comandos que se utilizan en este tema (no van en el orden que se ejecutan)
@@ -98,28 +115,4 @@ En la siguiente tabla se mencionan los comandos que se utilizan en este tema (no
 | Descargar archivo desde un servidor | $vagrant box add scrum_developer http://10.13.4.7\0:8000/scrum_developer.box |
 | Muestra la versión instalada | python --version |
 
-Tabla 2: Comandos a utilizar para vagrant
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Tabla: Comandos a utilizar para vagrant
