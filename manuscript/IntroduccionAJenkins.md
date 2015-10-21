@@ -53,7 +53,7 @@ Este comando compila todo el código a partir de esta carpeta
 
 	flake8  --max-line-length=160 .
 
-![Comando que se asegura de evitar violaciones en el código](images/flake8.png)
+![Comando que se asegura de evitar violaciones en el código](images/flake.png)
 
 * Dar clic en “Build now” o “Construir ahora” y observa si tus resultados son satisfactorios.
 
