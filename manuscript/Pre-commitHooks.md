@@ -1,4 +1,4 @@
-# Pre-commit hooks
+# 20 Pre-commit hooks
 
 ¿Cómo evitar que los desarrolladores hagan commit al repositorio si el código no compila? o
 ¿Cómo asegurarnos que todos los mensajes de commit sigan cierto formato?
@@ -41,7 +41,7 @@ Dar un
 
 para que liste los archivos que contiene esta carpeta 
 
-![] (images/1.png)
+![Lista de archivos en la carpeta hooks](images/1.png)
 
 Abrir el archivo “pre-commit” con el siguiente comando:
 
@@ -58,7 +58,8 @@ Modificar el archivo python_lab.py para tratar de violar el estandar de codigo.
 Tratar de hacer commit de sus cambios. Tendrá como resultado un error que no dejará que suba sus cambios ya que está tratando de subir un código que no cumple con su estándar.
 
 
-Para alguna duda sobre pre-commit-hook checar el siguiente enlace [aquí] (http://flake8.readthedocs.org/en/latest/vcs.html)
+Para alguna duda sobre pre-commit-hook checar el siguiente enlace [aquí][10] 
+[10]:http://flake8.readthedocs.org/en/latest/vcs.html
 
 
 
