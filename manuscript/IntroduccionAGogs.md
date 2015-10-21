@@ -9,6 +9,7 @@ Ejercicio: El siguiente ejercicio se realizará mediante el repositorio Gogs, la
 ![Gogs](images/Gogs.png)
 
 Pasos generales para el desarrollo del ejercicio (no son pasos específicos)
+
 * Entrar a la url que te dirá el instructor, ejemplo: http://10.13.4.78:3000/
 * Registrarse
 * Reunirse en equipo, seleccionar un líder y nombre del equipo
