@@ -40,7 +40,7 @@ $git clone pegar aqui la url del repositorio que fue copiado previamente
 
 * Cada uno de los integrantes deberá hacer commit, push y pull para actualizar el repositorio de código.
 
-* Para hacer referencia a los “issue” que están el Gogs, cada miembro del equipo deberá colocar “refs #”numero_de_issue_al_cual_se_refiere” dentro del comentario, para poder hacer referencia de la prueba al “issue” como se muestra de ejemplo en la siguiente pantalla:
+* Para hacer referencia a los “issue” que están el Gogs, cada miembro del equipo deberá colocar “Refs #numero_de_issue_al_cual_se_refiere" dentro del comentario, para poder hacer referencia de la prueba al “issue” como se muestra de ejemplo en la siguiente pantalla:
 
 ![Commit](images/Commitrefs.png)
 
