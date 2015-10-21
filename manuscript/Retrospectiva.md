@@ -12,6 +12,7 @@ De esta forma, se recomienda que en la retrospectiva se desarrolle en torno a la
 * O la identificación de una propuesta
 
 __Pasos:__ 
+
 * Cada integrante del equipo tiene 2 post-its, uno para cada sección, pasa a ubicarlo donde corresponde y lo lee frente al equipo.
 * De la sección “Qué podemos / debemos mejorar” se toman dos propuestas entre todos los integrantes y se hace el compromiso de mejorarlos.
 
