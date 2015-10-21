@@ -8,6 +8,7 @@ Por: MARTIN FOWLER , ADDISON-WESLEY, 1999
 ISBN: 9780201485677
 
 Datos del libro
+
 * Nº de páginas: 320 págs.
 * Encuadernación: Tapa blanda
 * Editorial: ADDISON-WESLEY
@@ -37,22 +38,12 @@ Uno de los conceptos que se presentan en este libro es Code Smell, este concepto
 Tabla: Ejemplos de Code Smells.
 
 
-Se pueden encontrar todos los Code Smells del libro [aquí] (http://www.industriallogic.com/wp-content/uploads/2005/09/smellstorefactorings.pdf)
+Se pueden encontrar todos los Code Smells del libro [aquí][7] 
+[7]: http://www.industriallogic.com/wp-content/uploads/2005/09/smellstorefactorings.pdf)
+
 
 __Ejercicio:__ Realizar refactoring a las pruebas de TDD del archivo “python_lab.py”
 
 __Nota:__ El siguiente comando nos permite conocer cuántas líneas de código tiene un archivo:
 
     `wc -l nombre_del_archivo`
-
-
-
-
-
-
-
-
-
-
-
-
