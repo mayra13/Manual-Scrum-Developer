@@ -4,6 +4,7 @@
 La falta de establecimiento de un estándar de código hace que sea difícil dar mantenimiento, esto complica el entendimiento de un sistema para la persona que no lo programó, disminuye la calidad del mismo. La programación con diferentes estándares de codificación en un mismo equipo de desarrollo crea conflictos a la hora de subir los cambios al repositorio.
 El estándar de codificación brinda calidad a nuestro código por lo cual es importante, sea cual sea el lenguaje de programación en el que se esté acostumbrado a programar,  para todos los lenguajes de programación existe un estándar de código que se puede adoptar.
 Si se está desarrollando de forma colaborativa, todos los desarrolladores deben adoptar el mismo estándar de código con lo cual, debe parecer que el mismo desarrollador codificó todo el programa. Con un estándar de código facilitaremos el mantenimiento del mismo, añadir nuevas características, modificar las ya existentes, depurar errores, o mejorar el rendimiento. 
+
 Por citar algunos ejemplos se mencionan los siguientes:
 
 __Identación.__ Usa 4 espacios por cada nivel de indentación.
@@ -20,7 +21,8 @@ __No usar espacios alrededor del signo.__ Igual cuando se encuentre en un listad
 	def suma(a = 0, b = 0):
 No se deben de realizar comentarios obvios.
 
-Puedes encontrar mas información sobre el estandar de código [aquí] (http://mundogeek.net/traducciones/guia-estilo-python.htm)
+Puedes encontrar mas información sobre el estandar de código [aquí][6] 
+[6]: http://mundogeek.net/traducciones/guia-estilo-python.htm)
 
 ## 10.1 Para Python encontramos PEP8 (Python Enhancement Proposals).
 
@@ -49,7 +51,4 @@ Donde mostrará las violaciones al estándar de código Python de la siguiente m
 El siguiente comando cuenta las líneas que hay con error:
 
     `flake8 python_lab.py | wc -l`
-
-
-
 
