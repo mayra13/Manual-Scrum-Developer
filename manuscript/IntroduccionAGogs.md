@@ -31,8 +31,9 @@ Pasos generales para el desarrollo del ejercicio (no son pasos específicos)
 
 ![Url](images/Copiarurl.png)
 
-Desde la consola entrar a /vagrant y ejecutar el comando:
-$git clone pegar aqui la url del repositorio que fue copiado previamente
+* Desde la consola entrar a /vagrant y ejecutar el comando:
+
+ git clone pegar aqui la url del repositorio que fue copiado previamente
 
 ![Hacer Clone](images/HacerClone.png)
 

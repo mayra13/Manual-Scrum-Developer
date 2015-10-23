@@ -10,12 +10,11 @@ __Nota:__ En caso de que no se encuentre instalado dentro de Vagrant instalar Co
 
 Instalar:
     
-<< >>=
-    sudo pip install coverage
-@
+    `sudo pip install coverage`
+
 
 __Ejercicio:__ Solo el líder de equipo debe agregar el siguiente comando  a la configuración de Jenkins:
 
-    --with-coverage
-    --cover-min-percentage=99
+    `--with-coverage`
+    `--cover-min-percentage=99`
 

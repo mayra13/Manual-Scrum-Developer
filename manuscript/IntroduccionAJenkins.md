@@ -11,7 +11,6 @@ __Nota:__ Es mala idea integrar el comando de autopep8 (que se encarga de la cor
 
 ![Panel de control de Jenkins](images/paneldecontroljenkins.png)
 
-Imagen: Visualización de la interfaz de Jenkins
 
 __Ejercicio:__ Con ayuda del instructor configurar el servidor Jenkins.
 
@@ -21,7 +20,7 @@ __Ejercicio:__ Con ayuda del instructor configurar el servidor Jenkins.
 
 * Desde Jenkins, seleccionar configuraciones y añadir en “Credentials” a Jenkins para que tenga permisos.
 
-![Creación de llaves](images/llaves.png)
+![Creación de permisos](images/llaves.png)
 
 * En “Build triggers” indicar cada cuanto tiempo se realizará la actualización
 

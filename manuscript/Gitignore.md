@@ -5,6 +5,7 @@ Frecuentemente necesitamos que repositorios de código ignoren archivos temporal
 En este archivo vamos a colocar las extensiones de los archivos que queremos que sean ignorados.
 
 Un buen lugar para empezar sería generar el archivo “.gitignore” [aquí][8]
+
 [8]:https://www.gitignore.io/
 
 ![Página de gitignore](images/gitignore.png) 
@@ -23,5 +24,6 @@ Todos los miembros del equipo deberán realizar pull para mantener su repositori
 Por último necesitas decirle a git que “olvide” los archivos “basura” que ya tenga guardados.
 
 Para ello sigue las instrucciones que encontraras [aquí][9]
+
 [9]:http://stackoverflow.com/a/19095988/54848
 

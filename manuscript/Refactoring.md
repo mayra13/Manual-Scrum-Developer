@@ -39,11 +39,13 @@ Uno de los conceptos que se presentan en este libro es Code Smell, este concepto
 Tabla: Ejemplos de Code Smells.
 
 
-Se pueden encontrar todos los Code Smells del libro [aquí][7] 
-[7]: http://www.industriallogic.com/wp-content/uploads/2005/09/smellstorefactorings.pdf)
+Se pueden encontrar todos los Code Smells del libro [aquí][17] 
+[17]:http://www.industriallogic.com/wp-content/uploads/2005/09/smellstorefactorings.pdf)
 
 
-__Ejercicio:__ Realizar refactoring a las pruebas de TDD del archivo “python_lab.py”
+
+__Ejercicio:__ Realizar refactoring a las pruebas de TDD del archivo “python_lab.py”.
+
 
 __Nota:__ El siguiente comando nos permite conocer cuántas líneas de código tiene un archivo:
 

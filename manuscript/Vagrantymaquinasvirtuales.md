@@ -6,15 +6,18 @@ Está disponible para Linux, Mac OS X, Windows, y otras plataformas.
 
 ## 3.1 Instalación de Vagrant en Windows
 Descargar el paquete de instalación y ejecutarlo, esta instalación no difiere a las instalaciones normales de Windows, se siguen los pasos que aparecerán en la pantalla.
-Vagrant es necesario descargar la 1.7
+Es necesario descargar la Version 1.7.
 
-NOTA: Descargar Putty si el sistema operativo es Windows. Putty no se configura en  la instalación, se ejecuta hasta que utilizamos el comando “vagrant up” ( que será un poco más adelante) y se realiza la configuración. 
+__NOTA:__ Descargar Putty si el sistema operativo es Windows. Putty no se configura en  la instalación, se ejecuta hasta que utilizamos el comando “vagrant up” ( que será un poco más adelante) y se realiza la configuración. 
 
 ## 3.2 Instalación de Vagrant en Linux
 Para la instalación de vagrant desde consola teclear el siguiente comando:
-$ sudo apt-get install vagrant
+
+    `sudo apt-get install vagrant`
+
 Para desechar la máquina virtual cruda, sal de la sesión SSH y ejecuta el siguiente comando:
-$ vagrant destroy
+
+    `vagrant destroy`
 
 ## 3.3 Instalación de Vagrant en Mac OS
 Para mayor información sobre la máquina virtual Vagrant  para MAC OS pueden consultar los siguientes links:
@@ -26,16 +29,20 @@ Para mayor información sobre la máquina virtual Vagrant  para MAC OS pueden co
 ## 3.4 Instalación de VirtualBox en Windows
 Windows
 Para realizar la instalación descarga el paquete en la versión 5.0.4 y sigue los pasos normalmente en la siguiente liga:
-[Enlace] (https://www.virtualbox.org/wiki/Downloads)
+[Enlace 3][3]
+
+[3]: https://www.virtualbox.org/wiki/Downloads
 
 ![Instalación de VirtualBox](images/virtualboxparawindows.png)
 
-NOTA: VirtualBox no corre en Windows con la versión 4.3, descargar la versión 5.
+__NOTA:__ VirtualBox no corre en Windows con la versión 4.3, descargar la versión 5.
+
 ## 3.5 Instalación de VirtualBox en Linux
 Se puede realizar la descarga del paquete en el siguiente link:
 [Enlace 1][1], [Enlace 2][2]
 [1]: https://www.virtualbox.org/wiki/Downloads
 [2]: https://www.virtualbox.org/wiki/Linux_Downloads
+
 Ó realizar la instalación desde consola con el siguiente comando:
     
     `sudo apt-get install virtualbox`
@@ -45,7 +52,10 @@ Se puede realizar la descarga del paquete en el siguiente link:
 ## 3.6 Instalación de VirtualBox en Mac OS
 
 Después de haber realizado la instalación de Vagrant y VirtualBox desde la consola realiza lo siguiente:
+
 * Crear una carpeta que se utilizará para desarrollar los ejercicios del curso en la ruta donde regularmente se trabaja.
+
+    `mkdir scrum_developer`
 
 ![](images/mkdircrearcarpeta.png)
 
@@ -55,17 +65,25 @@ Después de haber realizado la instalación de Vagrant y VirtualBox desde la con
 
 * Ejecuta el siguiente comando para que Vagrant reconozca que existe una máquina virtual.
 
+    `vagrant box add developer developer.box`
+
 ![](images/reconozcamaquinavirtual.png)
 
 * Ejecutar la máquina virtual con el siguiente comando.
 
+    `vagrant init developer`
+
 ![](images/correrlamaquinavirtual.png)
 
-* Levantar la máquina virtual (Si tu sistema operativo es Windows, pasar al sub tema “Configuración de Putty”)
+* Levantar la máquina virtual (Si tu sistema operativo es Windows, pasar al sub tema __“Configuración de Putty”__)
+    
+    `vagrant up`
 
 ![](images/Levantarmaquinavirtual.png)
 
 * Realizar la conexión a la máquina virtual. Si tu sistema operativo es Windows es momento de configurar Putty ya que este SO no puede ejecutar el comando ssh.
+
+    `vagrant ssh`
 
 ![](images/vagrantssh.png)
 
@@ -81,7 +99,7 @@ te mostrará la siguiente pantalla:
 
 ![](images/vagrantupputty.png)
 
-2.-Ejecuta el programa Putty y configurarlo con los datos del paso anterior.
+2.-Ejecutar el programa Putty y configurarlo con los datos del paso anterior.
 
 ![](images/programaputty.png)
 
@@ -93,7 +111,9 @@ te mostrará la siguiente pantalla:
 
 ![](images/conexitosaputty.png)
 
-* Entrar a la raíz de la máquina virtual (los que se guarde en este directorio, se guardará tanto en local como en la máquina virtual).
+* Entrar a la raíz de la máquina virtual (lo que se guarde en este directorio, se guardará tanto en local como en la máquina virtual).
+ 
+    `cd /vagrant`
 
 ![](images/cdvagrant.png)
 

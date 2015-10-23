@@ -21,8 +21,8 @@ __No usar espacios alrededor del signo.__ Igual cuando se encuentre en un listad
 	def suma(a = 0, b = 0):
 No se deben de realizar comentarios obvios.
 
-Puedes encontrar mas información sobre el estandar de código [aquí][6] 
-[6]: http://mundogeek.net/traducciones/guia-estilo-python.htm)
+Puedes encontrar mas información sobre el estandar de código [aquí][15] 
+[15]:http://mundogeek.net/traducciones/guia-estilo-python.htm)
 
 ## 10.1 Para Python encontramos PEP8 (Python Enhancement Proposals).
 
@@ -40,11 +40,13 @@ Actualización
 
 Al ejecutar los siguientes comandos se mostraran las violaciones que estan presentes en el estandar de codigo definido por Python.
 
-    `flake8 <Nombre del archivo>.py`
+    `flake8 Nombre del archivo.py`
                ó
-    `pep8 <nombre del archivo>.py`
+    `pep8 nombre del archivo.py`
 
 Donde mostrará las violaciones al estándar de código Python de la siguiente manera:
+
+    `pep8 ejercicio.py`
 
 ![](images/Violacionalestandar.png)
 
