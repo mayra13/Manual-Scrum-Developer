@@ -52,6 +52,7 @@ Deberá tener instalado Homebrew
 ### 8.1.3 Instalacion de Git en Windows
 
 Descargar Git [aquí][5] y ejecutarlo
+
 [5]:https://git-scm.com/download/win
 
 

@@ -35,6 +35,7 @@ __The Joel Test__
 Otra manera de realizar las retrospectivas es aplicando el Check-list que sugiere SCRUM. Es una lista de preguntas específicas, las cuales se van marcado si el equipo de trabajo está cumpliendo con esa tarea o actividad, en caso contrario, son las preguntas que se toman en cuenta para realizar la mejora y establecer los compromisos.
 
 Link del Check-list: [aquí][11] 
+
 [11]:https://www.crisp.se/wp-content/uploads/2012/05/Scrum-checklist.pdf
 
 

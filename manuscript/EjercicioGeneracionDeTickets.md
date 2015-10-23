@@ -2,7 +2,7 @@
 
 El objetivo de este ejercicio es practicar el manejo de un repositorio de código para el control de versiones con el equipo de trabajo.
 
-* El líder de equipo crea un fork del proyecto que el instructor te indicará
+* El líder de equipo crea un fork del proyecto que el instructor indicará
 * Agregar a los colaboradores del equipo
 * Cada miembro hace un clon del fork que realizó el líder
 
@@ -21,10 +21,8 @@ Pasos generales:
 * Verificar el correcto funcionamiento de la aplicación
 
 
-![Interfaz de aplicación](images/aplicacion.png)
+![Ejemplo de la interfaz de la aplicación que se desarrollará en el ejercicio.](images/aplicacion.png)
 
-
-Imagen: Ejemplo de la interfaz de la aplicación que se desarrollará en el ejercicio.
 
 __NOTA:__ Dudas o aclaraciones verificar con el instructor del curso.
 

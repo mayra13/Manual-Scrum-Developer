@@ -9,6 +9,7 @@ __Instalación.__
 
 * Descargar el navegador Firefox.
 * Instalar el Plug-in Selenium IDE [aquí][12]
+
 [12]:http://www.seleniumhq.org/download/
 
 ![Descarga de selenium](images/Descargaslenium.png)
@@ -19,11 +20,12 @@ Versión de Selenium que se debe instalar
 
 Al seleccionarlo mostrará la interfaz siguiente:
 
-![Interfaz de selenium](images/interfazselenium.png)
+![Interfaz de selenium IDE](images/interfazselenium.png)
 
-Interfaz de Selenium IDE
 
-__NOTA:__ Para mayor información revisar el link [aquí] (http://www.seleniumhq.org/docs/02_selenium_ide.jsp) 
+__NOTA:__ Para mayor información revisar el link [aquí][13]
+
+[13]:http://www.seleniumhq.org/docs/02_selenium_ide.jsp
 
 __Pirámide de pruebas__
 

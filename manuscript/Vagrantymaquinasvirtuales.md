@@ -40,6 +40,7 @@ __NOTA:__ VirtualBox no corre en Windows con la versión 4.3, descargar la versi
 ## 3.5 Instalación de VirtualBox en Linux
 Se puede realizar la descarga del paquete en el siguiente link:
 [Enlace 1][1], [Enlace 2][2]
+
 [1]: https://www.virtualbox.org/wiki/Downloads
 [2]: https://www.virtualbox.org/wiki/Linux_Downloads
 
