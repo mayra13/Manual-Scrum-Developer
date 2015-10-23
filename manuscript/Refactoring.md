@@ -40,6 +40,7 @@ Tabla: Ejemplos de Code Smells.
 
 
 Se pueden encontrar todos los Code Smells del libro [aquí][17] 
+
 [17]:http://www.industriallogic.com/wp-content/uploads/2005/09/smellstorefactorings.pdf)
 
 

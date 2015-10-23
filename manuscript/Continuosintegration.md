@@ -35,6 +35,7 @@ Ciclo de vida:
 13. Publish reports.
 
 A continuación se nombran algunas de las herramientas que se pueden utilizar:
+
 * GitHub. Repositorio para control de versiones
 * Travis-CI. Sistema distribuido de integración continua libre integrado con GitHub
 * CPD (Continuing Professional Development)
