@@ -12,6 +12,7 @@ Con base a esta métrica podemos decidir qué funciones y métodos son los más 
 | 21 - 50                 | Complejo, Programa de alto riesgo     |
 | 51 o más                |programa muy complejo, Muy alto riesgo |
 
+
 Tabla: Evaluación del riesgo según la complejidad ciclomática encontrada en un sistema.
 
 

@@ -7,6 +7,7 @@ Con base a esta métrica podemos decidir qué funciones y métodos son los más 
 
 
 | Complejidad Ciclomática | Evaluación de riesgos                 |
+|:------------------------|-------------------------------------: |
 | 1 - 10                  | Programa Simple, sin mucho riesgo     |
 | 11 - 20                 | Más complejo, riesgo moderado         |
 | 21 - 50                 | Complejo, Programa de alto riesgo     |
