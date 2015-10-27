@@ -4,6 +4,7 @@ Existen múltiples métricas que de manera predictiva nos ayudan a detectar áre
 Esta fórmula fue propuesta por McCabe como una forma simplificada y práctica para calcular la complejidad.
 
 Con base a esta métrica podemos decidir qué funciones y métodos son los más propensos a tener defectos. En la siguiente tabla se evalúan los riesgos dependiendo de la cantidad  complejidad ciclomática.
+
 +-------------------------+---------------------------------------+
 | Complejidad Ciclomática | Evaluación de riesgos                 |
 +=========================+=======================================+
@@ -15,6 +16,7 @@ Con base a esta métrica podemos decidir qué funciones y métodos son los más 
 +-------------------------+---------------------------------------+
 | 51 o más                |programa muy complejo, Muy alto riesgo |
 +-------------------------+---------------------------------------+
+
 
 Tabla: Evaluación del riesgo según la complejidad ciclomática encontrada en un sistema.
 
