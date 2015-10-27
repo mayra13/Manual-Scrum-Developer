@@ -21,7 +21,7 @@ Datos del libro
 Uno de los conceptos que se presentan en este libro es Code Smell, este concepto se refiere a distintos tipos de errores de diseño que debemos evitar al momento de programar. En la siguiente tabla se muestra un catálogo de algunos de los Code Smells más sobresalientes. 
 
 | Smell                                                          |                          Refactoring                             |
-| :---------------------------                                   | ------------------------------------------------:                |
+| :--------------------------:                                   | :-----------------------------------------------:                |
 | __Comments.__ When you feel like writing a comment,            |                                                                  |
 | first try "to refactor so that the comment becomes superfluous"| Rename Method, Extract Method, Introduce Assertion               |
 |                                                                |                                                                  |

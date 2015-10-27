@@ -121,7 +121,7 @@ te mostrará la siguiente pantalla:
 En la siguiente tabla se mencionan los comandos que se utilizan en este tema (no van en el orden que se ejecutan)
 
 | Definición                                      |                     Comando                       |
-| :-------                                      |                      ------:                          |
+| :-------:                                     |                      :------:                          |
 |Crear archivo central para la configuración del proyecto |$mkdir nombre_de_la_carpeta                 |
 |Entrar a la carpeta | $cd nombre_de_la_carpeta |
 |Crea el archivo de configuración de Vagrant | $vagrant init nombre_de_la_maquina_virtual |

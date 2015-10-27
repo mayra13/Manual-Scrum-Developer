@@ -27,7 +27,7 @@ __Ejercicio:__ Con ayuda del instructor configurar el servidor Jenkins.
 Formato para realizar las pruebas en un periodo de tiempo.
 
 |Formato | Cada cuanto | Ejemplo | Descripcion |
-|:------ | -----------| --------- |-----------:|
+|:-----: | :---------: | :-------: | :---------:|
 | *      |Cada minuto | H/5****   | Cada 5 minutos |
 | **     | Cada hora |           |             |
 | ***    | Cada mes   |           |            |

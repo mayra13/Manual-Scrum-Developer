@@ -7,7 +7,7 @@ Realizar integraciones continuas consiste en hacer integraciones “automáticas
 A continuación se mencionan algunas de las ventajas y desventajas de realizar Continuos Integration (Tabla 1).
 
 | Ventajas                                      |                     Desventajas                       |
-| :-------                                      |                      ------:                          |
+| :-------:                                     |                    :-------:                          |
 |Detectar y solucionar problemas de integración |                                                       |
 | de forma continua.                            |Requiere compromiso de la empresa (infraestructura).   |
 |Disponibilidad constante de una versión para   |Mantenimiento de alto nivel.                           |

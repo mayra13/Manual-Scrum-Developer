@@ -11,7 +11,7 @@ __TDD (Test Driven Development).__ Consiste en el desarrollo de dos prácticas: 
 En la siguiente tabla se mencionan los comandos y su descripción que se utilizaran para verificar la funcionalidad de las pruebas que se desarrollaran en el ejercicio sobre “Doctest”.
 
 | Definición | Comando   |
-| :----------| --------: |
+| :--------: | :-------: |
 |Correr las pruebas | python -m doctest python_lab.py |
 |Abrir el archivo para editar | nano nombre del archivo |
 
