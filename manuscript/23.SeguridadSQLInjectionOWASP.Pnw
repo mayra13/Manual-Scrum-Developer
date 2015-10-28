@@ -1,4 +1,4 @@
-# 25 Seguridad: SQL Injection, OWASP
+# 23 Seguridad: SQL Injection, OWASP
 
 Los datos y la información que se generan diariamente en internet es demasiada, por lo cual las aplicaciones Web deben ser sitios seguros, y lo menos vulnerables ante ataques generados por usuarios malintencionados que hacen mal uso de sus conocimientos informáticos y que pueden dañar las aplicaciones. Diseñar aplicaciones Web sin tomar en cuenta la seguridad puede generar graves problemas en algún futuro, sin embargo desarrollar una aplicación segura no es una tarea fácil, pero sí representa un mejor trabajo.
 

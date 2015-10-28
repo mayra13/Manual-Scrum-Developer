@@ -1,4 +1,4 @@
-# 19 Gitignore
+# 17 Gitignore
 
 Frecuentemente necesitamos que repositorios de código ignoren archivos temporales que nuestras herramientas de desarrollo producen. Para ello se utiliza .gitignore.
 

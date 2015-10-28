@@ -1,4 +1,4 @@
-# 15 Complejidad Ciclomática
+# 13 Complejidad Ciclomática
 
 Existen múltiples métricas que de manera predictiva nos ayudan a detectar áreas de nuestro código en las cuales se presentarán defectos. Una de estas es la Complejidad Ciclomática. La cual se define formalmente como  “CC = Número de condiciones + 1”. 
 Esta fórmula fue propuesta por McCabe como una forma simplificada y práctica para calcular la complejidad.

@@ -1,4 +1,4 @@
-# 20 Pre-commit hooks
+# 18 Pre-commit hooks
 
 ¿Cómo evitar que los desarrolladores hagan commit al repositorio si el código no compila? o
 ¿Cómo asegurarnos que todos los mensajes de commit sigan cierto formato?
